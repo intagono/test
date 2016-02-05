@@ -1,0 +1,13 @@
+{
+    "name": "intagono/test",
+    "description": "Test Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramiro Vera",
+            "email": "raalveco@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
